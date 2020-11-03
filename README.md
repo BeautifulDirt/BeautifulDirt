@@ -1,4 +1,4 @@
-# BeautifulDirt
+# Beautiful Dirt :space_invader:
 
 - Hello, my name is **D1RT**!
 - Welcome to my profile on github!
