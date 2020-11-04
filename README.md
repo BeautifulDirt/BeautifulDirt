@@ -1,4 +1,4 @@
-![Image](https://github.com/BeautifulDirt/BeautifulDirt/blob/main/img.png)
+<img src="https://github.com/BeautifulDirt/BeautifulDirt/blob/main/img.png" data-canonical-src="https://github.com/BeautifulDirt/BeautifulDirt/blob/main/img.png" width=60%/>
 
 - Hello, my name is **Alla**!
 - Welcome to my profile on github!
