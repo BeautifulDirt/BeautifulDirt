@@ -1,4 +1,4 @@
-# Beautiful Dirt :space_invader:
+![Image](https://github.com/BeautifulDirt/BeautifulDirt/blob/main/img.png)
 
 - Hello, my name is **Alla**!
 - Welcome to my profile on github!
