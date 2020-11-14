@@ -11,6 +11,4 @@
 
 :space_invader: Also, I'm fond of Arduino Uno. I'm interested in GameDev.
 
-:cat: This kitten's name is Musya. 
-
 ![Image](https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif)
