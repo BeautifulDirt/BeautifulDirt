@@ -7,6 +7,6 @@
 - C/C++ (QtCreator);
 - Web: HTML5, CSS, JS;
 - Sql: SQLite, MySQL, PostgreSQL;
-- NoSql: redis, MongoDB.
+- NoSql: Redis, MongoDB.
 
 ![Image](https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif)
