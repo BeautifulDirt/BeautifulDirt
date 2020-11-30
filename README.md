@@ -10,4 +10,3 @@
 - NoSql: Redis, MongoDB.
 
 ![Image](https://media.tenor.com/images/e40525a77affb845ce40243e7189a9f2/tenor.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeautifulDirt&layout=compact)](https://github.com/BeautifulDirt/github-readme-stats)
