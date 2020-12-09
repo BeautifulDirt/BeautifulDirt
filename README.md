@@ -1,4 +1,4 @@
-# Hello, world! :palm_tree: 
+# Hello, world! :christmas_tree:
 
 :ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media! Also, I'm fond of Arduino Uno.
 
