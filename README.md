@@ -1,6 +1,6 @@
 # Hello, world! :herb:
 
-:ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media! Also, I'm fond of Arduino Uno.
+:ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media!
 
 :book: My skills:
 - Python - anything from Desktop (Tkinter, Matplotlib) to Web (Flask);
