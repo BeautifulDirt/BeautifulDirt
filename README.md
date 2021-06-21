@@ -1,4 +1,4 @@
-# Hello, world! 🌊
+# Hello, world! 🌴
 
 :ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media!
 
