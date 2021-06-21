@@ -1,4 +1,4 @@
-# Hello, world! <img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" height="50" />
+# Hello, world! :palm:
 
 :ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media!
 
