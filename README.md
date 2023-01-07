@@ -3,7 +3,7 @@
 ### 👩 TOP-5 Facts about me:
 1. 💻 **Work experience**: `1.5 years of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
-3. **Language skills**: Native 🇷🇺, Beginner 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+3. **Language skills**: Native 🇷🇺, Beginner 🇬🇧
 4. 🎬 **My hobby**: `smm-management`, photoshop, study of psychology, listen to music and reading books;
 5. 🐱 🐶 I have `five cats and a dog` named Asya! 
 
