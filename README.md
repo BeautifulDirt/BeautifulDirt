@@ -4,8 +4,8 @@
 1. 💻 **Work experience**: `1.5 years of commercial development` in telecommunications and retails;
 2. 
 3.
-4.
-5. 🎬 **My hobby**: `smm-manager`, photoshop, study of psychology, listen to music and reading books.
+4. 🎬 **My hobby**: `smm-management`, photoshop, study of psychology, listen to music and reading books.
+5. 🐱 🐱 🐱 🐱 🐱 🐶 I have five cats and a dog named Asya!
 
 ### :hammer_and_wrench: Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
