@@ -5,7 +5,7 @@
 ### 💻 My skills: 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="20" height="20"/>  **Python v.3**: ``, ``, `Flask`, `RestAPI`, `FastAPI`;
 - **Sql**: `SQLite`, `MySQL`, `PostgreSQL`, `Oracle`;
-- **NoSql**: `Redis`, `MongoDB`;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="20" height="20"/> **NoSql**: `Redis`, `MongoDB`;
 - <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="20" height="20"/>  **Docker**;
 - <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu"  alt="Ubuntu" width="20" height="20"/> **Linux Ubuntu**;
 - <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"  alt="Go" width="20" height="20"/> **Go**;
