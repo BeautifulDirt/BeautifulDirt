@@ -1,11 +1,11 @@
 ![My banner](./img/my_banner.png)
 
 ### 👩 TOP-5 Facts about me:
-1. 💻 `1.5 years of commercial development` in telecommunications and retails
-2.
+1. 💻 `1.5 years of commercial development` in telecommunications and retails;
+2. 
 3.
 4.
-5.
+5. 🎬 `My hobby`: SMM-manager, photoshop and blogging.
 
 ### :hammer_and_wrench: Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
