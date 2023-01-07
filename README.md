@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hi%2C+everyone!+%F0%9F%91%8B)](https://git.io/typing-svg)
+![My banner](./img/mybanner.png)
 
 :ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media!
 
@@ -8,7 +8,5 @@
 - Web: HTML5, CSS, JS;
 - Sql: SQLite, MySQL, PostgreSQL;
 - NoSql: Redis, MongoDB.
-
-<img src="./dirtbanner.png" data-canonical-src="./dirtbanner.png" align="right" height="200" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
