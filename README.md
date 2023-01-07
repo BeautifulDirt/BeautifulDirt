@@ -4,9 +4,9 @@
 
 ### 💻 My skills: 
 - 🐍 **Python v.3**: ``, ``, `Flask`, `RestAPI`, `FastAPI`;
-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="10" height="10"/> **Sql**: `SQLite`, `MySQL`, `PostgreSQL`, `Oracle`;
+- **Sql**: `SQLite`, `MySQL`, `PostgreSQL`, `Oracle`;
 - 🗒 **NoSql**: `Redis`, `MongoDB`;
-- 🐳 **Docker**: ;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="15" height="15"/>  **Docker**: ;
 - 🐧 **Linux Ubuntu**: ;
 -  **Go**: ;
 
