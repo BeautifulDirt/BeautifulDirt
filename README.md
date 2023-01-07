@@ -1,4 +1,4 @@
-![My banner](./img/my_img.png)
+![My banner](./img/my_banner.png)
 
 :ru: My name is **Alla**! I'm from Russia! I enjoy programming chat-bots for social media!
 
