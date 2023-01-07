@@ -9,8 +9,6 @@
 - Sql: SQLite, MySQL, PostgreSQL;
 - NoSql: Redis, MongoDB.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
 
 <img src="./dirtbanner.png" data-canonical-src="./dirtbanner.png" align="right" height="200" />
