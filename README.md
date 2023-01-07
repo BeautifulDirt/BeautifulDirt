@@ -9,4 +9,4 @@
 - Sql: SQLite, MySQL, PostgreSQL;
 - NoSql: Redis, MongoDB.
 
-<img src="https://github.com/BeautifulDirt/BeautifulDirt/blob/main/gitdirtbanner.png" data-canonical-src="https://github.com/BeautifulDirt/BeautifulDirt/blob/main/gitdirtbanner.png" align="right" height="200" />
+<img src="./gitdirtbanner.png" data-canonical-src="./gitdirtbanner.png" align="right" height="200" />
