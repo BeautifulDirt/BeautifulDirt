@@ -6,7 +6,7 @@
 - 🐍 **Python v.3**: ``, ``, `Flask`, `RestAPI`, `FastAPI`;
 - **Sql**: `SQLite`, `MySQL`, `PostgreSQL`, `Oracle`;
 - 🗒 **NoSql**: `Redis`, `MongoDB`;
-- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="15" height="15"/>  **Docker**: ;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="20" height="20"/>  **Docker**: ;
 - 🐧 **Linux Ubuntu**: ;
 -  **Go**: ;
 
