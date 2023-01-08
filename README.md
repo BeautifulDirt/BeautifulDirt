@@ -49,4 +49,7 @@
 - 🎵 **NAVVI** - *From The End And Start*
 
 ### 📝 My stats:
+
+<iframe frameborder="0" style="border:none;width:50%;height:180px;" width="50%" height="180" src="https://music.yandex.ru/iframe/#track/75497503/13264920">Listen to <a href='https://music.yandex.ru/album/13264920/track/75497503?lang=en'>Night City</a> — <a href='https://music.yandex.ru/artist/4742006?lang=en'>Woodju</a> on Yandex Music</iframe>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
