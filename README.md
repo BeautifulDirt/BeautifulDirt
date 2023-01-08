@@ -4,7 +4,7 @@
 1. 💻 **Work experience**: `1.5 years of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: Native 🇷🇺, Beginner 🇬🇧; 
-4. 🎬 **My hobby**: `smm-management`, photoshop, psychology, listen to music and reading print books;
+4. 🎬 **My hobby**: `smm-management`, photoshop, listen to music and reading print books;
 5. 🐱 🐶 I have `five cats and a dog` named Asya! 
 
 ### :hammer_and_wrench: Languages and Tools: 
@@ -24,6 +24,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Ps"  alt="Ps" width="30" height="30"/>
+
+### 😇 Soft Skills: 
+
+- Time management;
+- Adaptability;
+- Responsibility;
+- Creative thinking;
+- Teamwork;
+- Positivity;
+- Self-Motivation.
 
 ### 👩‍💻🎧 My TOP-10 Music for Coding:
 
