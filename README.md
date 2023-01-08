@@ -7,19 +7,6 @@
 4. 🎬 **My hobby**: `smm-management`, photoshop, study of psychology, listen to music and reading books;
 5. 🐱 🐶 I have `five cats and a dog` named Asya! 
 
-### 👩‍💻🎧 My TOP-10 Music for Coding:
-
-- 🎵 **Woodju** - *26Monsters*
-- 🎵 **Noclu x CoMa** - *Stay*
-- 🎵 **Emotions** - *Otnicka*
-- 🎵 **n u a g e s** - *everything*
-- 🎵 **NASTYA KAZANTSEVA** - *Nice Dream*
-- 🎵 **MAALA** - *Touch*
-- 🎵 **Foals** - *Big Big Love*
-- 🎵 **First Aid Kit** - *In the Hearts of Men*
-- 🎵 **neumodel** - *Numb*
-- 🎵 **NAVVI** - *From The End And Start*
-
 ### :hammer_and_wrench: Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI"  alt="FastAPI" width="30" height="30"/>&nbsp;
@@ -37,6 +24,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Ps"  alt="Ps" width="30" height="30"/>
+
+### 👩‍💻🎧 My TOP-10 Music for Coding:
+
+- 🎵 **Woodju** - *26Monsters*
+- 🎵 **Noclu x CoMa** - *Stay*
+- 🎵 **Emotions** - *Otnicka*
+- 🎵 **n u a g e s** - *everything*
+- 🎵 **NASTYA KAZANTSEVA** - *Nice Dream*
+- 🎵 **MAALA** - *Touch*
+- 🎵 **Foals** - *Big Big Love*
+- 🎵 **First Aid Kit** - *In the Hearts of Men*
+- 🎵 **neumodel** - *Numb*
+- 🎵 **NAVVI** - *From The End And Start*
 
 ### 📝 My stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
