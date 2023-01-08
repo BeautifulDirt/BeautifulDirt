@@ -1,4 +1,4 @@
-![My banner](./img/my_banner.png)
+[![My banner](./img/my_banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
 1. 💻 **Work experience**: `1.5 years of commercial development` in telecommunications and retails;
