@@ -12,13 +12,13 @@
 - 🎵 **Woodju** - *26Monsters*
 - 🎵 **Noclu x CoMa** - *Stay*
 - 🎵 **Emotions** - *Otnicka*
-- 🎵 
-- 🎵 
-- 🎵 
-- 🎵 
-- 🎵 
-- 🎵 
-- 🎵 
+- 🎵 **n u a g e s** - *everything*
+- 🎵 **NASTYA KAZANTSEVA** - *Nice Dream*
+- 🎵 **MAALA** - *Touch*
+- 🎵 **Foals** - *Big Big Love*
+- 🎵 **First Aid Kit** - *In the Hearts of Men*
+- 🎵 **neumodel** - *Numb*
+- 🎵 **NAVVI** - *From The End And Start*
 
 ### :hammer_and_wrench: Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
