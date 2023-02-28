@@ -5,7 +5,7 @@
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner 🇬🇧`; 
 4. 🎬 **My hobby**: `smm-management`, `photoshop`, `listen to music` and `reading print books`;
-5. 🐱 🐶 I have `five cats` and `a dog named Asya`! YES!
+5. 🐱 🐶 I have `five cats` and `a dog named Asya`!
 
 ### :hammer_and_wrench: Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
