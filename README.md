@@ -25,15 +25,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Ps"  alt="Ps" width="30" height="30"/>
 
-### 💅 Soft Skills: 
-
-- Time management;
-- Adaptability;
-- Responsibility;
-- Creative thinking;
-- Teamwork;
-- Positivity;
-- Self-Motivation.
 
 ### 👩‍💻🎧 My TOP-10 Music for Coding:
 
