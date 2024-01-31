@@ -48,3 +48,8 @@
 ### 📝 My stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
+
+
+### ❤️ My idol:
+
+![](animation.gif)
