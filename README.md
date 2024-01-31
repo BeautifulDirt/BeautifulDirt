@@ -52,4 +52,4 @@
 
 ### ❤️ My idol:
 
-<img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/animation.gif" width="600" />
+<img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/animation.gif" width="700" />
