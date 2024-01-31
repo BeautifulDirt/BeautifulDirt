@@ -1,10 +1,10 @@
 [![My banner](./img/my_banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
-1. 💻 **Work experience**: `1.5 years of commercial development` in telecommunications and retails;
+1. 💻 **Work experience**: `3 years of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
-3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner 🇬🇧`; 
-4. 🎬 **My hobby**: `smm-management`, `photoshop`, `listen to music` and `reading print books`;
+3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A1)🇬🇧`; 
+4. 🎬 **My hobby**: `lead the fan community`, `listen to music` and `reading print books`;
 5. 🐱 🐶 I have `five cats` and `a dog named Asya`!
 
 ### :hammer_and_wrench: Languages and Tools: 
