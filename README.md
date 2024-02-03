@@ -45,11 +45,14 @@
 - 🎵 **neumodel** - *Numb*
 - 🎵 **NAVVI** - *From The End And Start*
 
+ <img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/animation.gif" align="right" width="250"/>
+
+### 💬 My quote:
+
+> Первый уровень цитирования  
+> ьдьдльдьддльдльдлтдлтдтлдтл  
+> ьдьдльдьддльдльдлтдлтдтлдтл
+
 ### 📝 My stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
-
-
-### ❤️ My idol:
-
-<img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/animation.gif" width="650" />
