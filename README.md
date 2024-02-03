@@ -45,7 +45,7 @@
 - 🎵 **neumodel** - *Numb*
 - 🎵 **NAVVI** - *From The End And Start*
 
- <img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="250"/>
+ <img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
 ### 💬 My quote:
 
