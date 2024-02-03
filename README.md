@@ -45,7 +45,7 @@
 - 🎵 **neumodel** - *Numb*
 - 🎵 **NAVVI** - *From The End And Start*
 
- <img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
+ <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
 ### 💬 My quote:
 
@@ -56,4 +56,9 @@
 
 ### 📝 My stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark"/>
+  <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark"/>
+</a>
+</p>
