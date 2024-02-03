@@ -45,13 +45,13 @@
 - 🎵 **neumodel** - *Numb*
 - 🎵 **NAVVI** - *From The End And Start*
 
- <img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/animation.gif" align="right" width="250"/>
+ <img src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="250"/>
 
 ### 💬 My quote:
 
-> Первый уровень цитирования  
-> ьдьдльдьддльдльдлтдлтдтлдтл  
-> ьдьдльдьддльдльдлтдлтдтлдтл
+> ***Take a step and a half back from me. Don't invade my aura. You're interfering with my work.***
+>  
+> *Serial "Sled": 2138 episode "A Call From The Past"*
 
 ### 📝 My stats:
 
