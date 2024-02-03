@@ -1,4 +1,4 @@
-[![My banner](./img/my_banner.png)](https://github.com/BeautifulDirt)
+[![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
 1. 💻 **Work experience**: `3 years of commercial development` in telecommunications and retails;
@@ -32,7 +32,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop[work]"  alt="Ps" width="30" height="30"/>
 
 
-### 👩‍💻🎧 My TOP-10 Music for Coding:
+### 👩‍💻🎧 My TOP-15 Music for Coding:
 
 - 🎵 **Woodju** - *26Monsters*
 - 🎵 **Noclu x CoMa** - *Stay*
@@ -44,6 +44,11 @@
 - 🎵 **First Aid Kit** - *In the Hearts of Men*
 - 🎵 **neumodel** - *Numb*
 - 🎵 **NAVVI** - *From The End And Start*
+- 🎵 **ritmo** - *there's no love, only words*
+- 🎵 **théos** - *i wish you were here*
+- 🎵 **Ishome** - *Ken Tavr*
+- 🎵 **Edmofo** - *Vita*
+- 🎵 **Volor Flex** - *Luna*
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
@@ -62,3 +67,4 @@
   <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark"/>
 </a>
 </p>
+
