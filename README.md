@@ -62,7 +62,7 @@
 ### 📝 My stats:
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/BeautifulDirt">
   <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark"/>
   <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark"/>
 </a>
