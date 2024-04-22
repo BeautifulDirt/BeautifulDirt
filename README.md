@@ -68,3 +68,10 @@
 </a>
 </p>
 
+### 👩‍💻 My LeetCode:
+
+<p align="center">
+<a href="https://leetcode.com/BeautifulDirt/">
+  <img alt="LeetCode Stats" height="180em" src="https://leetcard.jacoblin.cool/BeautifulDirt?theme=nord&font=ABeeZee&ext=contest"/>
+</a>
+</p>
