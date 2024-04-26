@@ -72,6 +72,6 @@
 
 <p align="center">
 <a href="https://leetcode.com/BeautifulDirt/">
-  <img alt="LeetCode Stats" height="180em" src="https://leetcard.jacoblin.cool/BeautifulDirt?theme=nord&font=ABeeZee&ext=contest"/>
+  <img alt="LeetCode Stats" height="300em" src="https://leetcard.jacoblin.cool/BeautifulDirt?theme=nord&font=Noto%20Sans%20Saurashtra&ext=activity"/>
 </a>
 </p>
