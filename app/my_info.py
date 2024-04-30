@@ -19,7 +19,7 @@ def get_playlist():
     resp = requests.get(url='https://api.vk.com/method/messages.getHistory',
                         params=payload)
 
-    if resp.status_code == 200:
+    if resp.status_code == 200 and resp.json().get('response'):
         info = resp.json()['response']['items'][0]['attachments']
 
         for audio in info:
@@ -38,4 +38,4 @@ def get_experience():
 
     experience = datetimenow - timedelta(days=internship) - begin_work
 
-    return experience.days, datetimenow.strftime('%m/%d/%Y, %H:%M:%S')
+    return experience.days, datetimenow.strftime('%d/%m/%Y, %H:%M:%S')
