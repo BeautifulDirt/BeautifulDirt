@@ -17,6 +17,8 @@
  - 🎵 [02:50] WOODJU - LØST T∑MPO
  - 🎵 [04:22] Pensees - Bai Hao
  - 🎵 [02:29] Cats Never Die - Dying Alone
+ - 🎵 [02:55] ied - ivory
+ - 🎵 [02:03] AQUASPLIT - Fundo
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
