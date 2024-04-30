@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 7 * * *"   
+    - cron: "0 1 * * *"   
 
 jobs:
   build:
@@ -41,8 +41,8 @@ jobs:
         git config pull.rebase false
         git pull
         git add .
-        git config --global user.email youremail   
-        git config --global user.name yourusername
+        git config --global user.email github-actions-email   
+        git config --global user.name github-actions
         git add -A
         git commit -m "[Automated] Update README.md - Add new playlist and update days of the experience" || exit 0
       
