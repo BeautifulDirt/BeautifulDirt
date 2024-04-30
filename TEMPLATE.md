@@ -42,5 +42,5 @@
 </p>
 
 <p align="right">
- <i>Updated at: /datetimenow (UTC +0) - by <strong>github-actions</strong></i>
+ <i>Updated at: /datetimenow (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
