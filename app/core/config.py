@@ -1,9 +1,8 @@
 from pydantic_settings import BaseSettings
-from pydantic import SecretStr
 
 
 class AppSettings(BaseSettings):
-    access_token: SecretStr
+    access_token: str
     group_id: str
     user_id: str
 
