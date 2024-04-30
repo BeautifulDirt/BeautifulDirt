@@ -26,14 +26,14 @@ jobs:
           GROUP_ID: ${{ secrets.GROUP_ID }}
           USER_ID: ${{ secrets.USER_ID }}
       run: |
-        export ACCESS_TOKEN="$ACCESS_TOKEN"
-        export GROUP_ID="$GROUP_ID"
-        export USER_ID="$USER_ID"
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       
     - name: execute app
       run: |
+        export ACCESS_TOKEN="$ACCESS_TOKEN"
+        export GROUP_ID="$GROUP_ID"
+        export USER_ID="$USER_ID"
         python app
       
     - name: commit
