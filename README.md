@@ -17,6 +17,8 @@
  - 🎵 [04:13] Melldu - Wusma
  - 🎵 [04:20] Cigarettes After Sex - Don't Let Me Go
  - 🎵 [04:09] Noclu X CoMa - Stay
+ - 🎵 [02:07] Stephanskiy - Purple Led
+ - 🎵 [02:42] OLZXVS, Orkenoff - WOAH
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
