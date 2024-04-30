@@ -12,6 +12,10 @@ jobs:
         python-version: "3.10"
     steps:
     - uses: actions/checkout@v2
+      env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GROUP_ID: ${{ secrets.GROUP_ID }}
+          USER_ID: ${{ secrets.USER_ID }}
 
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2

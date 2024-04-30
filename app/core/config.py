@@ -3,7 +3,6 @@ from pydantic import SecretStr
 
 
 class AppSettings(BaseSettings):
-    my_tokeb: SecretStr
     access_token: SecretStr
     user_id: str
     group_id: str
