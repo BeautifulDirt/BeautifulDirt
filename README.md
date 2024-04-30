@@ -1,7 +1,7 @@
 [![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
-1. 💻 **Work experience**: `876 days of commercial development` in telecommunications and retails;
+1. 💻 **Work experience**: `(876, '04/30/2024, 11:47:37') days of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A2) 🇬🇧`; 
 4. 🎬 **My hobby**: `lead the fan community`, `listen to music` and `reading print books`;
@@ -45,4 +45,8 @@
 <a href="https://leetcode.com/BeautifulDirt/">
   <img alt="LeetCode Stats" height="300em" src="https://leetcard.jacoblin.cool/BeautifulDirt?theme=nord&font=Noto%20Sans%20Saurashtra&ext=activity"/>
 </a>
+</p>
+
+<p align="right">
+ <i>Updated at: /datetimenow (UTC +0) - by <strong>github-actions</strong></i>
 </p>
