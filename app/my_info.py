@@ -34,7 +34,8 @@ def get_experience():
 
     internship = 117
     begin_work = datetime(2021, 8, 11, 0, 0, 0)
+    datetimenow = datetime.now()
 
-    experience = datetime.now() - timedelta(days=internship) - begin_work
+    experience = datetimenow - timedelta(days=internship) - begin_work
 
-    return experience.days
+    return experience.days, datetimenow.strftime('%m/%d/%Y, %H:%M:%S')

@@ -40,3 +40,7 @@
   <img alt="LeetCode Stats" height="300em" src="https://leetcard.jacoblin.cool/BeautifulDirt?theme=nord&font=Noto%20Sans%20Saurashtra&ext=activity"/>
 </a>
 </p>
+
+<p align="right">
+ <i>Updated at: /datetimenow (UTC +0) - by <strong>github-actions</strong></i>
+</p>
