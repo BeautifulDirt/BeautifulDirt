@@ -4,7 +4,7 @@
 1. 💻 **Work experience**: `878 days of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A2) 🇬🇧`; 
-4. 🎬 **My hobby**: `lead the fan community`, `listen to music` and `reading print books`;
+4. 🎬 **My hobby**: `to lead the fan community`, `to listen to music` and `to read books`;
 5. 🐱 🐶 I have `five cats` and `a dog named Asya`!
 
 ### :hammer_and_wrench: Languages and Tools: 
@@ -16,7 +16,6 @@
  - 🎵 [03:44] .Filёv - EVERYBODY KNOWS
  - 🎵 [03:50] Nastya Kazantseva - Dream of You
  - 🎵 [02:52] WOODJU - TORUGWE
- - 🎵 [005] WoodJu X CoMa - I'm So Tired (ft. CoMa)
  - 🎵 [03:56] PORTWAVE - WITHOUT YOU
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
@@ -46,5 +45,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 02/05/2024, 01:55:05 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 02/05/2024, 20:45:37 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
