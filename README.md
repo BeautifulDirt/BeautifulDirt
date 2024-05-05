@@ -4,7 +4,7 @@
 1. 💻 **Work experience**: `881 days of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A2) 🇬🇧`; 
-4. 🎬 **My hobby**: `to lead the fan community`, `to listen to music` and `to read books`;
+4. 🎬 **My hobbies**: I love `listening to music`, `reading books` and `leading a fan community`;
 5. 🐱 🐶 I have `five cats` and `a dog named Asya`!
 
 ### :hammer_and_wrench: Languages and Tools: 
@@ -45,5 +45,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 05/05/2024, 01:59:05 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 05/05/2024, 14:20:30 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
