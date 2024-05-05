@@ -44,7 +44,7 @@ jobs:
         git config --global user.email github-actions-email   
         git config --global user.name github-actions
         git add -A
-        git commit -m "[Automated] Update README.md - Add new playlist and update days of the experience" || exit 0
+        git commit -m "automated: Update README.md - Add new playlist and update days of the experience" || exit 0
       
     - name: push 
       uses: ad-m/github-push-action@master
