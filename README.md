@@ -13,11 +13,11 @@
 
 ### 👩‍💻🎧 My Playlist of the Day for Coding:
 
- - 🎵 [03:08] Ecepta - Nebula
- - 🎵 [03:35] Vigo - Lost
- - 🎵 [06:12] aLone x Anfield - Summer
- - 🎵 [05:23] Volor Flex - Luna
- - 🎵 [03:06] Portwave - DSLTNOISE
+ - 🎵 [05:56] Coma feat. Charlotte Bendiks - Hanoi
+ - 🎵 [04:23] Feint - Snake Eyes (Feat. CoMa)
+ - 🎵 [03:32] akiaura, LONOWN, STM - Sleepwalker
+ - 🎵 [05:50] Foals - Big Big Love
+ - 🎵 [03:26] Hong Kong Express feat. V I R T U E - 6AM
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
@@ -32,8 +32,8 @@
 
 <p align="center">
 <a href="https://github.com/BeautifulDirt">
-  <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark"/>
-  <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark"/>
+  <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=dracula"/>
+  <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=dracula"/>
 </a>
 </p>
 
@@ -46,5 +46,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 11/05/2024, 16:35:38 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 11/05/2024, 20:40:12 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
