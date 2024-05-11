@@ -1,4 +1,4 @@
-[![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/banner.png)](https://github.com/BeautifulDirt)
+[![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/new_banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
 1. 💻 **Work experience**: `887 days of commercial development` in telecommunications and retails;
@@ -46,5 +46,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 11/05/2024, 16:32:18 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 11/05/2024, 16:35:38 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
