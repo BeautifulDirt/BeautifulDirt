@@ -1,7 +1,7 @@
 [![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/new_banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
-1. 💻 **Work experience**: `951 days of commercial development` in telecommunications and retails;
+1. 💻 **Work experience**: `952 days of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A2) 🇬🇧`; 
 4. 🎬 **My hobbies**: I love `listening to music`, `reading books` and `leading a fan community`;
@@ -13,11 +13,11 @@
 
 ### 👩‍💻🎧 My Playlist of the Day for Coding:
 
- - 🎵 [02:26] FindMyName - Easy To Love You
- - 🎵 [04:09] Jhay Rivas - SAFE WITH ME (SECRETOS)
- - 🎵 [05:45] Moderat - This Time
- - 🎵 [02:38] INNOCENT, TIR3D DAYS - BONFIRES
- - 🎵 [05:27] akiaura, LONOWN, Olya Holiday - Angel Dust
+ - 🎵 [03:26] Hong Kong Express feat. V I R T U E - 6AM
+ - 🎵 [03:10] WOODJU - expectation
+ - 🎵 [02:05] NAKANIISHI - For you
+ - 🎵 [03:30] Pino✝Angel, Kuollut - Kuinka Paljon Unohtuu
+ - 🎵 [03:44] Klyne - Water Flow
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
@@ -46,5 +46,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 14/07/2024, 02:12:45 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 15/07/2024, 02:10:04 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
