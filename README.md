@@ -1,7 +1,7 @@
 [![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/new_banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
-1. 💻 **Work experience**: `1189 days of commercial development` in telecommunications and retails;
+1. 💻 **Work experience**: `1190 days of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A2) 🇬🇧`; 
 4. 🎬 **My hobbies**: I love `listening to music`, `reading books` and `leading a fan community`;
@@ -47,5 +47,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 09/03/2025, 02:04:06 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 10/03/2025, 02:05:24 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
