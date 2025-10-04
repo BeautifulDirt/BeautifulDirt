@@ -16,7 +16,7 @@ def get_playlist():
         'v': '5.199'
     }
 
-    resp = requests.get(url='https://api.vk.com/method/messages.getHistory',
+    resp = requests.get(url='https://api.vk.ru/method/messages.getHistory',
                         params=payload)
 
     if resp.status_code == 200 and resp.json().get('response'):
