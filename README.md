@@ -1,7 +1,7 @@
 [![My banner](https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/new_banner.png)](https://github.com/BeautifulDirt)
 
 ### 👩 TOP-5 Facts about me:
-1. 💻 **Work experience**: `887 days of commercial development` in telecommunications and retails;
+1. 💻 **Work experience**: `1350 days of commercial development` in telecommunications and retails;
 2. 🎓 **My Degree**: Master’s degree in `Information Systems and Technologies`;
 3. 🗺 **Language skills**: `Native 🇷🇺`, `Beginner (A2) 🇬🇧`; 
 4. 🎬 **My hobbies**: I love `listening to music`, `reading books` and `leading a fan community`;
@@ -13,11 +13,11 @@
 
 ### 👩‍💻🎧 My Playlist of the Day for Coding:
 
- - 🎵 [03:08] Ecepta - Nebula
- - 🎵 [03:35] Vigo - Lost
- - 🎵 [06:12] aLone x Anfield - Summer
- - 🎵 [05:23] Volor Flex - Luna
- - 🎵 [03:06] Portwave - DSLTNOISE
+ - 🎵 [03:34] Nick AM - Thief
+ - 🎵 [02:38] Nightwane, Psycho Playa - Clouds
+ - 🎵 [02:09] Save Haku, dmtw - Suzume
+ - 🎵 [03:19] Apovabin - Salty Sadness
+ - 🎵 [05:16] Parks‚ Squares and Alleys - Living for Today
 
  <img alt="Galina Rogozina" src="https://raw.githubusercontent.com/BeautifulDirt/BeautifulDirt/main/img/animation.gif" align="right" width="300"/>
 
@@ -32,8 +32,8 @@
 
 <p align="center">
 <a href="https://github.com/BeautifulDirt">
-  <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=solarized_dark"/>
-  <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=solarized_dark"/>
+  <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeautifulDirt&theme=dracula"/>
+  <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeautifulDirt&theme=dracula"/>
 </a>
 </p>
 
@@ -46,5 +46,5 @@
 </p>
 
 <p align="right">
- 🕐 <i>Updated at: 11/05/2024, 16:35:38 (UTC +00:00) - by <strong>github-actions</strong></i>
+ 🕐 <i>Updated at: 17/08/2025, 02:56:31 (UTC +00:00) - by <strong>github-actions</strong></i>
 </p>
